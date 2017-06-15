@@ -1,7 +1,7 @@
 # Infinite Flight Connect API Docs & Samples
 ## Sample apps
 - [Offical demo](https://github.com/mlaban/IFCTest/tree/master/Infinite%20Flight%20Connector%20API)
-- [Liveflight Connect](https://github.com/LiveFlightApp/Connect-Windows)
+- [LiveFlight Connect](https://github.com/LiveFlightApp/Connect-Windows)
 
 ## Connection
 
@@ -238,11 +238,6 @@ Control on simulator. Example, toggle play/pause :
 | Command  | Description  |
 |---|---|
 | `TogglePause` | |
-| `TakeScreenshot` | |
-| `ToggleUber` | |
-| `ToggleTime` | |
-| `ToggleShader` | |
-| `ToggleNormal` | |
 | `Start Recording` | |
 | `Stop Recording` | |
 
